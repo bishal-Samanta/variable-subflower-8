@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Zomato Clone</h1>
+      <h2>Food Delivery website</h2>
     </div>
   );
 }
